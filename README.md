@@ -1,6 +1,7 @@
 # DDA555-project-2
 This project improves a classification model by combining feature selection with
 hyperparameter tuning for a Gaussian Naive Bayes (`GaussianNB`) classifier.
+
 The project is implemented in a Jupyter notebook. Open the notebook and run the cells sequentially to reproduce the analysis and results.
 
 ## Requirements
