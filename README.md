@@ -13,12 +13,12 @@ pip install numpy pandas scikit-learn seaborn matplotlib
 
 ## Structure
 1. Analyze a dataset (6 points)
-   1.1 MI Exploratory Data Analysis (EDA)
-   1.2 Univariate Analysis
-   1.3 Numeric features vs. outcome
+- Exploratory Data Analysis (EDA)
+- Univariate Analysis
+- Numeric features vs. outcome
 2. Train a binary classifier (5 points)
-  2.1 Mu Split Dataset into Training and Testing Set
-  2.2 Train a baseline model.
+- Split Dataset into Training and Testing Set
+- Train a baseline model.
 3. Improve the model's performance (4 points)
 
 ## Reproducibility
